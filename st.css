@@ -10,7 +10,7 @@ body{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     background-color: black;
     border-radius: 1px;
-    max-width: 1000px;
+    max-width: 300px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
