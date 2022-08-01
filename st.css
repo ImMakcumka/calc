@@ -3,10 +3,7 @@ body{
     user-select: none;
 }
 
-.center{
-    display: grid;
-    place-items: center;
-}
+
 
 .container{
     display: grid;
